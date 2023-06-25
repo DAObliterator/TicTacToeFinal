@@ -1,3 +1,3 @@
 # TicTacToeFinal
 
-#A Simple TicTacToeGame in which its impossible to beat the computer 
+#A Simple TicTacToeGame in which the computer isnt incredibly stupid 
